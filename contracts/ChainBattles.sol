@@ -16,7 +16,6 @@ contract ChainBattles is ERC721URIStorage {
     mapping(uint256 => uint256 ) public tokenIdtoLevels;
 
     constructor () ERC721 ("Chain Battles", "CBTLS"){
-
     }
 
     // Generating a svg abi to encoded
