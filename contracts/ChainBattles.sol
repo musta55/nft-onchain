@@ -81,4 +81,6 @@ function train (uint256 tokenId) public {
       _setTokenURI(tokenId, getTokenURI(tokenId));
 }
 
+// contract deployed to 0xF63396b8516a047E478E4b0ce71228E4c6E5d3e7
+
 }
