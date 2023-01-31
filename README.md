@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Make NFTs with On-Chain Metadata
 
 This project demonstrates 
   1. How to store NFTs metadata on chain
